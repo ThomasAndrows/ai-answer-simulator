@@ -2,7 +2,9 @@
 
 **Would ChatGPT or Perplexity cite your website? Find out, and fix it, for a few cents.**
 
-Built at OpenRouter x Meta Build Day (Nov 9, 2026) for the **$1 Challenge**, using **Meta Muse Ember** via OpenRouter.
+🎥 **Demo video:** https://youtu.be/x7jBgwOZmr0
+
+Built by team **Super AI Visibility** at OpenRouter x Meta Build Day (Nov 9, 2026) for the **$1 Challenge**, using **Meta Muse Ember** via OpenRouter.
 
 ## What it does
 
